@@ -1,1 +1,4 @@
 build/
+.paktrace/
+scripts/shared_exm.shader
+textures/shared_exm_src/*_p.jpg
