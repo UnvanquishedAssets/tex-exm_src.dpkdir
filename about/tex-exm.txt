@@ -7,16 +7,10 @@ textures/shared_exm_src/*
 
     License
 
-        Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
-        (https://creativecommons.org/licenses/by-nc-nd/3.0/)
+		Creative Commons Attribution-ShareAlike 4.0 International
+		(https://creativecommons.org/licenses/by-sa/4.0/)
 
-        The author granted Unvanquished Development to make derivate works
-        of his textures.
-
-        All textures in this set are derivate works. If you use these
-        textures in your own project, atrribute the original author but
-        also leave a notice that says that they have been altered with his
-        explicit permission.
+        All textures in this set are derivate works.
 
     Changes
 
@@ -25,5 +19,5 @@ textures/shared_exm_src/*
 
     Source
 
-        http://www.evillair.net/v2/index.php?option=com_content&task=view&id=28&Itemid=43
+		http://evillair.net/v3/pages/textures/ex.php
 
