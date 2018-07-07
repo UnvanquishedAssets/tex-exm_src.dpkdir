@@ -18,7 +18,7 @@
 
 textures/shared_exm/base1
 {
-	qer_editorImage     textures/shared_exm_src/base1_p
+	qer_editorImage     textures/shared_exm_src/base1_d
 
 	diffuseMap          textures/shared_exm_src/base1_d
 	normalMap           textures/shared_exm_src/base1_n
@@ -27,7 +27,7 @@ textures/shared_exm/base1
 
 textures/shared_exm/floor_grate1_trans
 {
-	qer_editorImage     textures/shared_exm_src/floor_grate1_trans_p
+	qer_editorImage     textures/shared_exm_src/floor_grate1_trans_d
 	qer_trans           0.30
 
 	cull                none
@@ -45,7 +45,7 @@ textures/shared_exm/floor_grate1_trans
 
 textures/shared_exm/floor_grate2_trans
 {
-	qer_editorImage     textures/shared_exm_src/floor_grate2_trans_p
+	qer_editorImage     textures/shared_exm_src/floor_grate2_trans_d
 	qer_trans           0.30
 
 	cull                none
@@ -63,7 +63,7 @@ textures/shared_exm/floor_grate2_trans
 
 textures/shared_exm/floor_grate3_trans
 {
-	qer_editorImage     textures/shared_exm_src/floor_grate3_trans_p
+	qer_editorImage     textures/shared_exm_src/floor_grate3_trans_d
 	qer_trans           0.30
 
 	cull                none
@@ -81,7 +81,7 @@ textures/shared_exm/floor_grate3_trans
 
 textures/shared_exm/trim_02x02v1
 {
-	qer_editorImage     textures/shared_exm_src/trim_02x02v1_p
+	qer_editorImage     textures/shared_exm_src/trim_02x02v1_d
 
 	diffuseMap          textures/shared_exm_src/trim_02x02v1_d
 	normalMap           textures/shared_exm_src/trim_02x02v1_n
@@ -90,7 +90,7 @@ textures/shared_exm/trim_02x02v1
 
 textures/shared_exm/trim_16x02v1
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x02v1_p
+	qer_editorImage     textures/shared_exm_src/trim_16x02v1_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x02v1_d
 	normalMap           textures/shared_exm_src/trim_16x02v1_n
@@ -99,7 +99,7 @@ textures/shared_exm/trim_16x02v1
 
 textures/shared_exm/trim_16x02v2
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x02v2_p
+	qer_editorImage     textures/shared_exm_src/trim_16x02v2_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x02v2_d
 	normalMap           textures/shared_exm_src/trim_16x02v2_n
@@ -108,7 +108,7 @@ textures/shared_exm/trim_16x02v2
 
 textures/shared_exm/trim_16x02v3
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x02v3_p
+	qer_editorImage     textures/shared_exm_src/trim_16x02v3_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x02v3_d
 	normalMap           textures/shared_exm_src/trim_16x02v3_n
@@ -117,7 +117,7 @@ textures/shared_exm/trim_16x02v3
 
 textures/shared_exm/trim_16x04v1
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x04v1_p
+	qer_editorImage     textures/shared_exm_src/trim_16x04v1_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x04v1_d
 	normalMap           textures/shared_exm_src/trim_16x04v1_n
@@ -126,7 +126,7 @@ textures/shared_exm/trim_16x04v1
 
 textures/shared_exm/trim_16x04v2
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x04v2_p
+	qer_editorImage     textures/shared_exm_src/trim_16x04v2_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x04v2_d
 	normalMap           textures/shared_exm_src/trim_16x04v2_n
@@ -135,7 +135,7 @@ textures/shared_exm/trim_16x04v2
 
 textures/shared_exm/trim_16x04v3
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x04v3_p
+	qer_editorImage     textures/shared_exm_src/trim_16x04v3_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x04v3_d
 	normalMap           textures/shared_exm_src/trim_16x04v3_n
@@ -144,7 +144,7 @@ textures/shared_exm/trim_16x04v3
 
 textures/shared_exm/trim_16x08v1
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v1_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v1_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v1_d
 	normalMap           textures/shared_exm_src/trim_16x08v1_n
@@ -153,7 +153,7 @@ textures/shared_exm/trim_16x08v1
 
 textures/shared_exm/trim_16x08v2
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v2_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v2_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v2_d
 	normalMap           textures/shared_exm_src/trim_16x08v2_n
@@ -162,7 +162,7 @@ textures/shared_exm/trim_16x08v2
 
 textures/shared_exm/trim_16x08v3
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v3_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v3_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v3_d
 	normalMap           textures/shared_exm_src/trim_16x08v3_n
@@ -170,7 +170,7 @@ textures/shared_exm/trim_16x08v3
 
 textures/shared_exm/trim_16x08v4
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v4_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v4_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v4_d
 	normalMap           textures/shared_exm_src/trim_16x08v4_n
@@ -178,7 +178,7 @@ textures/shared_exm/trim_16x08v4
 
 textures/shared_exm/trim_16x08v5
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v5_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v5_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v5_d
 	normalMap           textures/shared_exm_src/trim_16x08v5_n
@@ -187,7 +187,7 @@ textures/shared_exm/trim_16x08v5
 
 textures/shared_exm/trim_16x08v6
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v6_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v6_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v6_d
 	normalMap           textures/shared_exm_src/trim_16x08v6_n
@@ -196,7 +196,7 @@ textures/shared_exm/trim_16x08v6
 
 textures/shared_exm/trim_16x08v7
 {
-	qer_editorImage     textures/shared_exm_src/trim_16x08v7_p
+	qer_editorImage     textures/shared_exm_src/trim_16x08v7_d
 
 	diffuseMap          textures/shared_exm_src/trim_16x08v7_d
 	normalMap           textures/shared_exm_src/trim_16x08v7_n
