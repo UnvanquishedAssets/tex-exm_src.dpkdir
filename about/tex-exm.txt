@@ -3,7 +3,7 @@ textures/shared_exm_src/*
     Author
 
         Yves 'evillair' Allaire (http://evillair.net/)
-        Modifications by Unvanquished Development (http://unvanquished.net/)
+        Modifications by Unvanquished Development (https://unvanquished.net/)
 
     License
 
