@@ -28,7 +28,7 @@ textures/shared_exm/base1
 textures/shared_exm/floor_grate1_trans
 {
 	qer_editorImage     textures/shared_exm_src/floor_grate1_trans_d
-	qer_trans           0.30
+	qer_trans           .3
 
 	cull                none
 	surfaceparm         metalsteps
@@ -46,7 +46,7 @@ textures/shared_exm/floor_grate1_trans
 textures/shared_exm/floor_grate2_trans
 {
 	qer_editorImage     textures/shared_exm_src/floor_grate2_trans_d
-	qer_trans           0.30
+	qer_trans           .3
 
 	cull                none
 	surfaceparm         metalsteps
@@ -64,7 +64,7 @@ textures/shared_exm/floor_grate2_trans
 textures/shared_exm/floor_grate3_trans
 {
 	qer_editorImage     textures/shared_exm_src/floor_grate3_trans_d
-	qer_trans           0.30
+	qer_trans           .3
 
 	cull                none
 	surfaceparm         metalsteps
