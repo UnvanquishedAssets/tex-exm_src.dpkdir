@@ -1,3 +1,3 @@
-build/
 /.cache/
-scripts/shared_exm.shader
+/build/
+/scripts/shared_exm.shader
