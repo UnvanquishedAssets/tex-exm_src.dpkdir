@@ -1,23 +1,22 @@
 textures/shared_exm_src/*
 
-    Author
+	Author
 
-        Yves 'evillair' Allaire (http://evillair.net/)
-        Modifications by Unvanquished Development (https://unvanquished.net/)
+		Yves 'evillair' Allaire (http://evillair.net/)
+		Modifications by Unvanquished Development (https://unvanquished.net/)
 
-    License
+	License
 
 		Creative Commons Attribution-ShareAlike 4.0 International
 		(https://creativecommons.org/licenses/by-sa/4.0/)
 
-        All textures in this set are derivate works.
+		All textures in this set are derivate works.
 
-    Changes
+	Changes
 
-        The textures in this set are merely mashups of evillair's ex textures
-        that should resemble textures in his eq2 set.
+		The textures in this set are merely mashups of evillair's ex textures
+		that should resemble textures in his eq2 set.
 
-    Source
+	Source
 
 		http://evillair.net/v3/pages/textures/ex.php
-
